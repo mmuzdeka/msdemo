@@ -1,0 +1,5 @@
+package com.msdemo.orderservice;
+
+public class OrderController {
+
+}
